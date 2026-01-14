@@ -8,11 +8,12 @@
   },
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "build": "echo \"No build step for plain JS\""
   },
   "name": "backend",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "index.js",
   "author": "",
   "license": "ISC",
   "description": ""
