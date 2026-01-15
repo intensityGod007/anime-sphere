@@ -5,7 +5,7 @@ function Footer() {
         <div className="footer">
             <div className="footerLine"></div>
             <h6 className='copyright'>
-                Made with ❤️ by Kunal Sharma
+                Made with ❤️ by Hitesh Kumar
             </h6>
         </div>
     )
